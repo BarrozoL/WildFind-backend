@@ -22,6 +22,7 @@
       "id": 1,
       "typeId": 1,
       "name": "Common Blackbird",
+      "image": "images/birds/Common-blackbirdImg.jpg",
       "description": "A medium-sized bird with an orange-yellow beak and eye-ring. The males are entirely black, while the females are dark brown.",
       "location": "Portugal"
     },
