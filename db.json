@@ -22,6 +22,7 @@
       "id": 1,
       "typeId": 1,
       "name": "Common Blackbird",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/44584641/1200",
       "description": "A medium-sized bird with an orange-yellow beak and eye-ring. The males are entirely black, while the females are dark brown.",
       "location": "Portugal"
     },
@@ -29,6 +30,7 @@
       "id": 2,
       "typeId": 1,
       "name": "European Starling",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0uqIFovXy63QbAoEKiyn814rXPyXaS9TtB8w4YHcCSBFT5K58",
       "description": "A medium-sized passerine bird with iridescent black plumage, which in winter shows a pattern of white spots.",
       "location": "Portugal"
     },
@@ -36,6 +38,7 @@
       "id": 3,
       "typeId": 1,
       "name": "House Sparrow",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
       "description": "A small bird with a robust body, thick bill, and brown and gray feathers. Males have distinctive black bibs.",
       "location": "Portugal"
     },
@@ -43,6 +46,7 @@
       "id": 4,
       "typeId": 1,
       "name": "Eurasian Magpie",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS88-67vqIKr1UrQauZYXbshIyC88tlnuCzkcG67pagiwFJ-4vi",
       "description": "A striking bird with black and white plumage and a long tail. Known for its intelligence and loud, chattering calls.",
       "location": "Portugal"
     },
@@ -50,6 +54,7 @@
       "id": 5,
       "typeId": 1,
       "name": "Yellow-legged Gull",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/44945251/900",
       "description": "A large gull with a white body, gray wings, and a yellow bill with a red spot. Often seen near coastal areas.",
       "location": "Portugal"
     },
@@ -57,6 +62,7 @@
       "id": 6,
       "typeId": 1,
       "name": "Feral Pigeon",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/8142388/large.jpg",
       "description": "A common urban bird with a variety of plumage colors, though typically gray with iridescent feathers on the neck.",
       "location": "Portugal"
     },
@@ -64,6 +70,7 @@
       "id": 7,
       "typeId": 1,
       "name": "Eurasian Collared Dove",
+      "image": "https://www.birdnote.org/sites/default/files/Eurasian%20Collared-Dove%20-%20Hayton%20Reserve%20-%2010-14-14%20319-800.jpg",
       "description": "A medium-sized dove with a distinctive black neck collar. It has pale, sandy plumage and is commonly found in urban areas.",
       "location": "Portugal"
     },
@@ -71,6 +78,7 @@
       "id": 8,
       "typeId": 1,
       "name": "Great Tit",
+      "image": "https://c02.purpledshub.com/uploads/sites/62/2013/03/Great-tit.-GettyImages-1204702184-10f1a18.jpg?webp=1&w=1200",
       "description": "A small passerine bird with a distinctive black head, white cheeks, and a yellow underbelly with a black stripe.",
       "location": "Portugal"
     },
@@ -78,6 +86,7 @@
       "id": 9,
       "typeId": 1,
       "name": "European Robin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Erithacus_rubecula_with_cocked_head.jpg",
       "description": "A small bird with an orange-red breast and face, brown upperparts, and a melodic song.",
       "location": "Portugal"
     },
@@ -85,6 +94,7 @@
       "id": 10,
       "typeId": 1,
       "name": "Common Swift",
+      "image": "https://cdn.hswstatic.com/gif/gettyimages-1332353621.jpg",
       "description": "A fast-flying bird with a dark, sooty-brown body, long wings, and a short, forked tail. It spends most of its life in the air.",
       "location": "Portugal"
     }
@@ -118,5 +128,6 @@
       "description": "A small passerine bird with a distinctive black head, white cheeks, and a yellow underbelly with a black stripe.",
       "location": "Portugal"
     }
-  ]
+  ],
+  "spottings": []
 }
