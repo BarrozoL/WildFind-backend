@@ -96,6 +96,27 @@
       "name": "European Robin",
       "description": "A small bird with an orange-red breast and face, brown upperparts, and a melodic song.",
       "location": "Portugal"
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "name": "Feral Pigeon",
+      "description": "A common urban bird with a variety of plumage colors, though typically gray with iridescent feathers on the neck.",
+      "location": "Portugal"
+    },
+    {
+      "id": 7,
+      "typeId": 1,
+      "name": "Eurasian Collared Dove",
+      "description": "A medium-sized dove with a distinctive black neck collar. It has pale, sandy plumage and is commonly found in urban areas.",
+      "location": "Portugal"
+    },
+    {
+      "id": 8,
+      "typeId": 1,
+      "name": "Great Tit",
+      "description": "A small passerine bird with a distinctive black head, white cheeks, and a yellow underbelly with a black stripe.",
+      "location": "Portugal"
     }
   ]
 }
