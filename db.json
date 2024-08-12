@@ -25,7 +25,7 @@
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/44584641/1200",
       "description": "A medium-sized bird with an orange-yellow beak and eye-ring. The males are entirely black, while the females are dark brown.",
       "location": "Portugal",
-      "sightings": []
+      "sightings": ["Black Forest", "Bright Forest"]
     },
     {
       "id": 2,
