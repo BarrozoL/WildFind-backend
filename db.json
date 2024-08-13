@@ -24,8 +24,7 @@
       "name": "Common Blackbird",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/44584641/1200",
       "description": "A medium-sized bird with an orange-yellow beak and eye-ring. The males are entirely black, while the females are dark brown.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 2,
@@ -33,8 +32,7 @@
       "name": "European Starling",
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0uqIFovXy63QbAoEKiyn814rXPyXaS9TtB8w4YHcCSBFT5K58",
       "description": "A medium-sized passerine bird with iridescent black plumage, which in winter shows a pattern of white spots.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 3,
@@ -42,8 +40,7 @@
       "name": "House Sparrow",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
       "description": "A small bird with a robust body, thick bill, and brown and gray feathers. Males have distinctive black bibs.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 4,
@@ -51,8 +48,7 @@
       "name": "Eurasian Magpie",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS88-67vqIKr1UrQauZYXbshIyC88tlnuCzkcG67pagiwFJ-4vi",
       "description": "A striking bird with black and white plumage and a long tail. Known for its intelligence and loud, chattering calls.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 5,
@@ -60,8 +56,7 @@
       "name": "Yellow-legged Gull",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/44945251/900",
       "description": "A large gull with a white body, gray wings, and a yellow bill with a red spot. Often seen near coastal areas.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 6,
@@ -69,8 +64,7 @@
       "name": "Feral Pigeon",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/8142388/large.jpg",
       "description": "A common urban bird with a variety of plumage colors, though typically gray with iridescent feathers on the neck.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 7,
@@ -78,8 +72,7 @@
       "name": "Eurasian Collared Dove",
       "image": "https://www.birdnote.org/sites/default/files/Eurasian%20Collared-Dove%20-%20Hayton%20Reserve%20-%2010-14-14%20319-800.jpg",
       "description": "A medium-sized dove with a distinctive black neck collar. It has pale, sandy plumage and is commonly found in urban areas.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 8,
@@ -87,8 +80,7 @@
       "name": "Great Tit",
       "image": "https://c02.purpledshub.com/uploads/sites/62/2013/03/Great-tit.-GettyImages-1204702184-10f1a18.jpg?webp=1&w=1200",
       "description": "A small passerine bird with a distinctive black head, white cheeks, and a yellow underbelly with a black stripe.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 9,
@@ -96,8 +88,7 @@
       "name": "European Robin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Erithacus_rubecula_with_cocked_head.jpg",
       "description": "A small bird with an orange-red breast and face, brown upperparts, and a melodic song.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 10,
@@ -105,8 +96,7 @@
       "name": "Common Swift",
       "image": "https://cdn.hswstatic.com/gif/gettyimages-1332353621.jpg",
       "description": "A fast-flying bird with a dark, sooty-brown body, long wings, and a short, forked tail. It spends most of its life in the air.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 11,
@@ -114,8 +104,7 @@
       "name": "Iberian Wolf",
       "image": "https://media.istockphoto.com/id/607996206/photo/iberian-wolf.jpg?s=612x612&w=0&k=20&c=fLF2LXDNDQtO6g6C8Cy3DN7MD3u_GfPOjY7oWTz_Trs=",
       "description": "The Iberian Wolf is a subspecies of the gray wolf found in the northwest of the Iberian Peninsula. It is slightly smaller than its northern relatives.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 12,
@@ -123,8 +112,7 @@
       "name": "Red Fox",
       "image": "https://a-z-animals.com/media/2021/09/fox-scream-at-night-red-fox-in-field-1024x535.jpg",
       "description": "The Red Fox is a highly adaptable carnivore, with reddish-brown fur and a bushy tail. It is widespread across Portugal.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 13,
@@ -132,8 +120,7 @@
       "name": "European Rabbit",
       "image": "https://cdn-fastly.petguide.com/media/2022/02/16/8229709/european-rabbit.jpg?size=720x845&nocrop=1",
       "description": "The European Rabbit is a small mammal native to the Iberian Peninsula. It is a key species in Portuguese ecosystems.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 14,
@@ -141,8 +128,7 @@
       "name": "Iberian Lynx",
       "image": "https://iucn.org/sites/default/files/styles/article_image/public/2024-07/dreamstime_xl_267742046.jpg?h=e5aec6c8&itok=9Sw2k4tf",
       "description": "The Iberian Lynx is one of the most endangered cats in the world, with distinctive tufts on its ears and a short tail. It is native to Portugal and Spain.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 15,
@@ -150,8 +136,7 @@
       "name": "Wild Boar",
       "image": "https://www.woodlandtrust.org.uk/media/3545/wild-boar-male-alamy-fj4x58-blickwinkel.jpg?center=0.327683615819209,0.42222222222222222&mode=crop&heightratio=0.5622047244094488188976377953&width=647&rnd=132078468140000000",
       "description": "The Wild Boar is a large, omnivorous mammal found in the forests of Portugal. It has a bristly coat and is known for its tusks.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 16,
@@ -159,8 +144,7 @@
       "name": "Common Genet",
       "image": "https://www.thesprucepets.com/thmb/wHS7AHAje5jmyy6Oa3s3xnMLejo=/2077x0/filters:no_upscale():strip_icc()/Genet-GettyImages-88161491-596fa6b26f53ba0011f96cad.jpg",
       "description": "The Common Genet is a nocturnal mammal with a spotted coat and a long, ringed tail. It is commonly found in southern Portugal.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 17,
@@ -168,8 +152,7 @@
       "name": "European Hedgehog",
       "image": "https://www.worldlandtrust.org/wp-content/uploads/2017/07/shutterstock_118149634.jpg",
       "description": "The European Hedgehog is a small mammal with a coat of spines. It is a common sight in gardens and forests across Portugal.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 18,
@@ -177,8 +160,7 @@
       "name": "Otter",
       "image": "https://www.aldeiasdoxisto.pt/media/filer_public_thumbnails/filer_public/12/0c/120cea0f-3bbe-48ee-ba33-42636a451b17/aldeias-xisto-galleries1171-lontra.jpg__1280x960_q95_crop_subsampling-2_upscale.jpg",
       "description": "The Otter is a semi-aquatic mammal known for its playful behavior. It is commonly found in rivers and streams throughout Portugal.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 19,
@@ -186,8 +168,7 @@
       "name": "Iberian Mole",
       "image": "https://static.escolakids.uol.com.br/2022/02/toupeira-saindo-do-solo.jpg",
       "description": "The Iberian Mole is a small, burrowing mammal with a cylindrical body and velvety fur. It is native to the Iberian Peninsula.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     },
     {
       "id": 20,
@@ -195,8 +176,7 @@
       "name": "European Badger",
       "image": "https://www.wildlifeaid.org.uk/uploads/_1200x630_crop_center-center_82_none/Badger3.jpg?mtime=1694520946",
       "description": "The European Badger is a burrowing mammal with a distinctive black and white striped face. It is common in forests and rural areas of Portugal.",
-      "location": "Portugal",
-      "sightings": [{ "location": "", "date": "", "description": "" }]
+      "location": "Portugal"
     }
   ],
   "watch": [
@@ -227,6 +207,14 @@
       "name": "Great Tit",
       "description": "A small passerine bird with a distinctive black head, white cheeks, and a yellow underbelly with a black stripe.",
       "location": "Portugal"
+    }
+  ],
+  "sightings": [
+    {
+      "animalId": "",
+      "location": "",
+      "date": "",
+      "description": ""
     }
   ]
 }
