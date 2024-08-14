@@ -120,7 +120,16 @@
       "name": "Iberian Wolf",
       "image": "https://media.istockphoto.com/id/607996206/photo/iberian-wolf.jpg?s=612x612&w=0&k=20&c=fLF2LXDNDQtO6g6C8Cy3DN7MD3u_GfPOjY7oWTz_Trs=",
       "description": "The Iberian Wolf is a subspecies of the gray wolf found in the northwest of the Iberian Peninsula. It is slightly smaller than its northern relatives.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "sightings": [
+        {
+          "id": 1,
+          "animalId": 11,
+          "location": "Lisbon",
+          "date": "",
+          "description": ""
+        }
+      ]
     },
     {
       "id": 12,
@@ -678,9 +687,34 @@
   "watch": [
     {
       "id": 1,
-      "typeId": 1,
-      "name": "European Robin",
-      "description": "A small bird with an orange-red breast and face, brown upperparts, and a melodic song.",
+      "typeId": 2,
+      "name": "Iberian Lynx",
+      "image": "https://iucn.org/sites/default/files/styles/article_image/public/2024-07/dreamstime_xl_267742046.jpg?h=e5aec6c8&itok=9Sw2k4tf",
+      "description": "The Iberian Lynx is one of the most endangered cats in the world, with distinctive tufts on its ears and a short tail. It is native to Portugal and Spain.",
+      "location": "Portugal"
+    },
+    {
+      "id": 2,
+      "typeId": 2,
+      "name": "Wild Boar",
+      "image": "https://www.woodlandtrust.org.uk/media/3545/wild-boar-male-alamy-fj4x58-blickwinkel.jpg?center=0.327683615819209,0.42222222222222222&mode=crop&heightratio=0.5622047244094488188976377953&width=647&rnd=132078468140000000",
+      "description": "The Wild Boar is a large, omnivorous mammal found in the forests of Portugal. It has a bristly coat and is known for its tusks.",
+      "location": "Portugal"
+    },
+    {
+      "id": 3,
+      "typeId": 2,
+      "name": "Common Genet",
+      "image": "https://www.thesprucepets.com/thmb/wHS7AHAje5jmyy6Oa3s3xnMLejo=/2077x0/filters:no_upscale():strip_icc()/Genet-GettyImages-88161491-596fa6b26f53ba0011f96cad.jpg",
+      "description": "The Common Genet is a nocturnal mammal with a spotted coat and a long, ringed tail. It is commonly found in southern Portugal.",
+      "location": "Portugal"
+    },
+    {
+      "id": 4,
+      "typeId": 2,
+      "name": "European Hedgehog",
+      "image": "https://www.worldlandtrust.org/wp-content/uploads/2017/07/shutterstock_118149634.jpg",
+      "description": "The European Hedgehog is a small mammal with a coat of spines. It is a common sight in gardens and forests across Portugal.",
       "location": "Portugal"
     }
   ],
