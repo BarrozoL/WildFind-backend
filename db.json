@@ -711,44 +711,37 @@
   ],
   "sightings": [
     {
-      "id": 1,
-      "animalId": 2,
-      "location": "",
-      "date": "",
-      "description": ""
-    },
-    {
       "id": 2,
       "animalId": 11,
-      "location": "Lisbon",
+      "location": "Lisboa",
       "date": "15/08/24",
       "description": "a"
     },
     {
       "id": 2,
       "animalId": 11,
-      "location": "Lisbon",
+      "location": "Lisboa",
       "date": "15/08/24",
       "description": "a"
     },
     {
       "id": 2,
       "animalId": 5,
-      "location": "Lisbon",
+      "location": "Lisboa",
       "date": "15/08/24",
       "description": "a"
     },
     {
       "id": 2,
       "animalId": 10,
-      "location": "Lisbon",
+      "location": "Lisboa",
       "date": "15/08/24",
       "description": "a"
     },
     {
       "id": 2,
       "animalId": 12,
-      "location": "Lisbon",
+      "location": "Lisboa",
       "date": "15/08/24",
       "description": "a"
     },
