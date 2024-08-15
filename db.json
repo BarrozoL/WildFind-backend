@@ -33,6 +33,7 @@
       "name": "other"
     }
   ],
+  "plantTypes": [{ "id": 1, "name": "tree" }],
   "animals": [
     {
       "id": 1,
@@ -668,7 +669,7 @@
       "id": 71,
       "typeId": 8,
       "name": "Bigfoot",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bigfoot.svg/1200px-Bigfoot.svg.png",
+      "image": "https://npr.brightspotcdn.com/dims4/default/87b6d53/2147483647/strip/true/crop/565x348+0+3/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F91%2F76551511422dbcd917680518a583%2Fscreenshot-2023-07-20-235828.png",
       "description": "A large, ape-like creature reported to inhabit the forests of North America. Bigfoot is typically described as being between 6 to 10 feet tall and covered in dark hair.",
       "location": "North America",
       "dangerLevel": "1 (generally safe, approach with caution)"
@@ -677,7 +678,7 @@
       "id": 72,
       "typeId": 8,
       "name": "Phantom",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ghost_03.jpg/800px-Ghost_03.jpg",
+      "image": "https://cdn.5280.com/2021/10/Ghosts--960x686.jpg",
       "description": "A phantom, or ghost, is a spectral entity believed to be the spirit or soul of a deceased person. Phantoms are often depicted as translucent or shadowy figures and are said to haunt specific locations, typically where they had strong emotional ties or unresolved issues in life.",
       "location": "Worldwide",
       "dangerLevel": "0 (generally no danger to humans)"
@@ -686,7 +687,7 @@
       "id": 73,
       "typeId": 8,
       "name": "Chupacabra",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chupacabra_Puerto_Rico.jpg",
+      "image": "https://cdn.hswstatic.com/gif/chupacabrajpg.png",
       "description": "A cryptid known for its vampire-like tendencies, allegedly attacking livestock and draining their blood. Descriptions vary, but it is often depicted as a reptilian creature with spines along its back.",
       "location": "Latin America",
       "dangerLevel": "3 (caution advised, may be aggressive. If you are a goat, do not approach.)"
@@ -695,7 +696,7 @@
       "id": 74,
       "typeId": 8,
       "name": "Kraken",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg/800px-Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg",
+      "image": "https://t4.ftcdn.net/jpg/05/52/15/11/360_F_552151117_KUxM7ed3V2JmZCJVdFKWwV9OvNBZNA8y.jpg",
       "description": "A legendary sea monster said to dwell off the coast of Norway and Greenland. The Kraken is often described as a giant squid capable of dragging ships and sailors to their doom.",
       "location": "North Atlantic Ocean",
       "dangerLevel": "4 (very dangerous, avoid at all costs)"
@@ -713,7 +714,7 @@
       "id": 76,
       "typeId": 8,
       "name": "Dragon",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dragon_Chinese.png/1024px-Dragon_Chinese.png",
+      "image": "https://t3.ftcdn.net/jpg/05/54/12/28/360_F_554122808_70uodDBTFvbJJjM8Fu9Vy24WHK614SXh.jpg",
       "description": "A legendary serpent-like creature that appears in the mythology of many cultures. Dragons are often depicted as powerful beings capable of breathing fire and flying.",
       "location": "Worldwide",
       "dangerLevel": "5 (immediate death, approach under no circumstances)"
@@ -722,7 +723,7 @@
       "id": 77,
       "typeId": 8,
       "name": "Yeti",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yeti_illustration.png/1024px-Yeti_illustration.png",
+      "image": "https://www.telegraph.co.uk/multimedia/archive/01855/yeti_1855541c.jpg",
       "description": "A cryptid said to inhabit the Himalayan mountains. The Yeti, also known as the 'Abominable Snowman,' is typically described as a large, hairy, ape-like creature.",
       "location": "Himalayas, Asia",
       "dangerLevel": "2 (possibly dangerous, approach with caution)"
@@ -731,7 +732,7 @@
       "id": 78,
       "typeId": 8,
       "name": "Unicorn",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Unicorn%2C_tapestry_in_the_Stirling_Castle.jpg/800px-Unicorn%2C_tapestry_in_the_Stirling_Castle.jpg",
+      "image": "https://mrwallpaper.com/images/hd/magical-real-unicorn-glimpsed-in-a-fantasy-world-1j6p81pluvoxhiym.jpg",
       "description": "A legendary horse-like creature with a single large, spiraling horn on its forehead. The unicorn is a symbol of purity, grace, and magic.",
       "location": "Medieval Europe",
       "dangerLevel": "0 (no danger to humans)"
@@ -740,7 +741,7 @@
       "id": 79,
       "typeId": 8,
       "name": "Mothman",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mothman_statue.jpg/800px-Mothman_statue.jpg",
+      "image": "https://i.pinimg.com/736x/d3/53/81/d35381ad84a9943c490583553ea8c146.jpg",
       "description": "A mysterious creature reportedly seen in Point Pleasant, West Virginia. The Mothman is described as a large, winged creature with glowing red eyes, often associated with ominous events.",
       "location": "West Virginia, USA",
       "dangerLevel": "2 (possibly dangerous, approach with caution)"
@@ -749,10 +750,82 @@
       "id": 80,
       "typeId": 8,
       "name": "Hodag",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hodag_Museum_2011.jpg/800px-Hodag_Museum_2011.jpg",
+      "image": "https://rhinelanderpphc.com/wp-content/uploads/2023/04/DAG003-1024x722.jpg",
       "description": "A cryptid from American folklore, particularly in Wisconsin. The Hodag is said to be a large, fearsome creature with the head of an ox, the body of a bear, and the spines of a stegosaurus.",
       "location": "Wisconsin, USA",
       "dangerLevel": "3 (caution advised, may be aggressive)"
+    }
+  ],
+  "plants": [
+    {
+      "id": 1,
+      "typeId": 1,
+      "name": "Cork Oak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cork_oak.JPG",
+      "location": "Portugal"
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "name": "Portuguese Oak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Quercus_faginea.jpg",
+      "location": "Portugal"
+    },
+    {
+      "id": 3,
+      "typeId": 1,
+      "name": "Strawberry Tree",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Arbutus_unedo_2010-1.jpg",
+      "location": "Portugal"
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "name": "Stone Pine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pinus_pinea_Tavira.jpg",
+      "location": "Portugal"
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "name": "Holm Oak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Quercus_ilex.JPG",
+      "location": "Portugal"
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "name": "Maritime Pine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pinus_pinaster_tree.jpg",
+      "location": "Portugal"
+    },
+    {
+      "id": 7,
+      "typeId": 1,
+      "name": "European Olive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Olive_tree_in_Portugal.jpg",
+      "location": "Portugal"
+    },
+    {
+      "id": 8,
+      "typeId": 1,
+      "name": "Bay Laurel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Laurus_nobilis.jpg",
+      "location": "Portugal"
+    },
+    {
+      "id": 9,
+      "typeId": 1,
+      "name": "Sweet Chestnut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Castanea_sativa.JPG",
+      "location": "Portugal"
+    },
+    {
+      "id": 10,
+      "typeId": 1,
+      "name": "Pyrenean Oak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Quercus_pyrenaica.jpg",
+      "location": "Portugal"
     }
   ],
   "watch": [
