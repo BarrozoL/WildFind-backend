@@ -33,7 +33,11 @@
       "name": "other"
     }
   ],
-  "plantTypes": [{ "id": 1, "name": "tree" }],
+  "plantTypes": [
+    { "id": 1, "name": "tree" },
+    { "id": 2, "name": "flower" },
+    { "id": 3, "name": "berry" }
+  ],
   "animals": [
     {
       "id": 1,
@@ -761,275 +765,361 @@
       "id": 1,
       "typeId": 1,
       "name": "Cork Oak",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cork_oak.JPG",
-      "location": "Portugal"
+      "image": "https://alma-da-comporta.com/app/uploads/2021/01/liege7.jpg",
+      "description": "The Cork Oak is a medium-sized, evergreen oak tree known for its thick, rugged bark that is harvested to produce cork.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 2,
       "typeId": 1,
       "name": "Portuguese Oak",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Quercus_faginea.jpg",
-      "location": "Portugal"
+      "image": "https://florestas.pt/wp-content/uploads/2021/07/imagem-galeria-carvalhos14-750x500.png",
+      "description": "The Portuguese Oak is a deciduous or semi-evergreen oak tree that is native to the Iberian Peninsula, known for its durability and used in construction.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 3,
       "typeId": 1,
       "name": "Strawberry Tree",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Arbutus_unedo_2010-1.jpg",
-      "location": "Portugal"
+      "image": "https://lh3.googleusercontent.com/proxy/VbR7A06pFlzqsTbTTfnDX0587id0NnpeODpABqe5vRSrS8_j7FWehGICVUHWQChZtfGGwYxcuwmH_lN-nyWgUNN8k1mq0l1kcJxMl_FNnrOXH0BU9TVSoyfi9fYjr8EjxvCQPpEQvD5xgHpal1g2R7vBCyVd8Yk_gzRdzTTrS250W-abT1ixHMvfxUi4so98E4a2vF_xZ1TcFyBqiKBOLtfX_z1RFp4OS82kX7u9DclfZh4zvRlz__pTQqYp10HqmLCsaBZQXJg",
+      "description": "The Strawberry Tree is an evergreen shrub or small tree that produces small, red, edible fruits that resemble strawberries.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 4,
       "typeId": 1,
       "name": "Stone Pine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pinus_pinea_Tavira.jpg",
-      "location": "Portugal"
+      "image": "https://www.thespruce.com/thmb/VrS9a4ZwH_ocAcnLH-ljkjAAKCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/italian-stone-pine-growing-tips-3269335-04-bb59c09199b44c639703555ad3bbd23c.jpg",
+      "description": "The Stone Pine is a large, umbrella-shaped tree that produces edible pine nuts, commonly used in Mediterranean cuisine.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 5,
       "typeId": 1,
       "name": "Holm Oak",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Quercus_ilex.JPG",
-      "location": "Portugal"
+      "image": "https://www.gardenia.net/wp-content/uploads/2023/05/quercus-ilex-780x520.webp",
+      "description": "The Holm Oak is a large, evergreen oak tree with a dense canopy and acorns that are a crucial food source for wildlife.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 6,
       "typeId": 1,
       "name": "Maritime Pine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pinus_pinaster_tree.jpg",
-      "location": "Portugal"
+      "image": "https://nature.guide/cdn/photos/large/663cb829-8125-4e50-a758-2e0e3723adc6.jpg",
+      "description": "The Maritime Pine is a tall, fast-growing tree widely used in the timber industry and for resin extraction.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 7,
       "typeId": 1,
       "name": "European Olive",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Olive_tree_in_Portugal.jpg",
-      "location": "Portugal"
+      "image": "https://www.gardenia.net/wp-content/uploads/2019/07/shutterstock_167952968-800x533.jpg",
+      "description": "The European Olive tree is well known for its fruit, olives, and the oil extracted from them, which are staples in Mediterranean diets.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 8,
       "typeId": 1,
       "name": "Bay Laurel",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Laurus_nobilis.jpg",
-      "location": "Portugal"
+      "image": "https://st.depositphotos.com/1001146/61038/i/450/depositphotos_610387222-stock-photo-beautiful-laurel-trees-afternoon-sunset.jpg",
+      "description": "Bay Laurel is an aromatic evergreen tree or large shrub whose leaves are used as a culinary herb in cooking.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 9,
       "typeId": 1,
       "name": "Sweet Chestnut",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Castanea_sativa.JPG",
-      "location": "Portugal"
+      "image": "https://www.monumentaltrees.com/db/05/600/05176.jpg",
+      "description": "The Sweet Chestnut is a large, deciduous tree known for its edible chestnuts, which are a popular food in many cultures.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 10,
       "typeId": 1,
       "name": "Pyrenean Oak",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Quercus_pyrenaica.jpg",
-      "location": "Portugal"
-    }
-  ],
-  "watch": [
-    {
-      "id": 1,
-      "typeId": 2,
-      "name": "Iberian Lynx",
-      "image": "https://iucn.org/sites/default/files/styles/article_image/public/2024-07/dreamstime_xl_267742046.jpg?h=e5aec6c8&itok=9Sw2k4tf",
-      "description": "The Iberian Lynx is one of the most endangered cats in the world, with distinctive tufts on its ears and a short tail. It is native to Portugal and Spain.",
-      "location": "Portugal"
-    },
-    {
-      "id": 2,
-      "typeId": 2,
-      "name": "Wild Boar",
-      "image": "https://www.woodlandtrust.org.uk/media/3545/wild-boar-male-alamy-fj4x58-blickwinkel.jpg?center=0.327683615819209,0.42222222222222222&mode=crop&heightratio=0.5622047244094488188976377953&width=647&rnd=132078468140000000",
-      "description": "The Wild Boar is a large, omnivorous mammal found in the forests of Portugal. It has a bristly coat and is known for its tusks.",
-      "location": "Portugal"
-    },
-    {
-      "id": 3,
-      "typeId": 2,
-      "name": "Common Genet",
-      "image": "https://www.thesprucepets.com/thmb/wHS7AHAje5jmyy6Oa3s3xnMLejo=/2077x0/filters:no_upscale():strip_icc()/Genet-GettyImages-88161491-596fa6b26f53ba0011f96cad.jpg",
-      "description": "The Common Genet is a nocturnal mammal with a spotted coat and a long, ringed tail. It is commonly found in southern Portugal.",
-      "location": "Portugal"
-    },
-    {
-      "id": 4,
-      "typeId": 2,
-      "name": "European Hedgehog",
-      "image": "https://www.worldlandtrust.org/wp-content/uploads/2017/07/shutterstock_118149634.jpg",
-      "description": "The European Hedgehog is a small mammal with a coat of spines. It is a common sight in gardens and forests across Portugal.",
-      "location": "Portugal"
-    }
-  ],
-  "sightings": [
-    {
-      "id": 1,
-      "animalId": 11,
-      "location": "Lisboa",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "Seen in Lisboa yesterday"
-    },
-    {
-      "id": 2,
-      "animalId": 11,
-      "location": "Lisboa",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "I was scared"
-    },
-    {
-      "id": 3,
-      "animalId": 5,
-      "location": "Lisboa",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "I saw it on the way to work"
-    },
-    {
-      "id": 4,
-      "animalId": 10,
-      "location": "Lisboa",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "My brother saw it and told me about it"
-    },
-    {
-      "id": 5,
-      "animalId": 12,
-      "location": "Lisboa",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "It found its way into my home"
-    },
-    {
-      "id": 6,
-      "animalId": 20,
-      "location": "Faro",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "It was in the beach"
-    },
-    {
-      "id": 7,
-      "animalId": 21,
-      "location": "Faro",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "I saw him scare people near a restaurant"
-    },
-    {
-      "id": 8,
-      "animalId": 24,
-      "location": "Faro",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "This animal appeared and stole my food"
-    },
-    {
-      "id": 9,
-      "animalId": 25,
-      "location": "Faro",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "It threatened my family"
-    },
-    {
-      "id": 10,
-      "animalId": 26,
-      "location": "Faro",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "It enjoyed being caressed"
+      "image": "https://www.vdberk.co.uk/media/76760/quercus-pyrenaica.jpg",
+      "description": "The Pyrenean Oak is a medium-sized deciduous tree native to the mountainous regions of the Iberian Peninsula, often found in mixed forests.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 11,
-      "animalId": 14,
-      "location": "Porto",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "Had a glass of wine with me in Porto"
+      "typeId": 1,
+      "name": "Laurel",
+      "image": "https://entresementes.pt/1377-large_default/laurel-sobre-8-semillas.jpg",
+      "description": "Laurel is an aromatic evergreen tree or large shrub with glossy leaves, commonly used as a culinary herb.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 12,
-      "animalId": 16,
-      "location": "Beja",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "It quickly ran away when it saw me"
+      "typeId": 1,
+      "name": "Portuguese Fir",
+      "image": "https://www.thespruce.com/thmb/Y-yYaUX78JfnwBG8lykkp5Ktr2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/white-fir-growing-guide-5195385-hero-86e75ad95d524704a0538d5e96065efb.jpg",
+      "description": "Portuguese Fir is a coniferous tree with flat, needle-like leaves and is native to the mountainous regions of Portugal.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 13,
-      "animalId": 17,
-      "location": "Beja",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "It quickly ran away when it saw me"
+      "typeId": 1,
+      "name": "Carob Tree",
+      "image": "https://canopy.org/wp-content/uploads/carob.jpg",
+      "description": "The Carob Tree is an evergreen tree with dark brown pods that are used as a chocolate substitute and in various food products.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 14,
-      "animalId": 18,
-      "location": "Beja",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "European Ash",
+      "image": "https://www.kew.org/sites/default/files/styles/image_gallery/public/2020-11/1317334.jpg.webp?itok=gqKLYxex",
+      "description": "The European Ash is a tall deciduous tree known for its compound leaves and smooth bark, often used in traditional medicine.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 15,
-      "animalId": 19,
-      "location": "Beja",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "Service Tree",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Speierling_Castell%2C_2.jpg/1200px-Speierling_Castell%2C_2.jpg",
+      "description": "Service Tree is a deciduous tree with lobed leaves and small, apple-like fruits that are edible when fully ripe.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 16,
-      "animalId": 26,
-      "location": "Beja",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "Portuguese Laurel",
+      "image": "https://www.gardenia.net/wp-content/uploads/2023/05/Prunus-lusitanica-Portugal-Laurel.webp",
+      "description": "Portuguese Laurel is a dense, evergreen shrub or small tree with glossy leaves and small, white flowers.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 17,
-      "animalId": 27,
-      "location": "Viseu",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "Mastic Tree",
+      "image": "https://www.moonvalleynurseries.com/_next/image?url=https%3A%2F%2Fcdn.mvncorp.dev%2Fmedia%2Fproducts%2Fimages%2FMoon%20Valley%20Nurseries%20Mastic%20Tree-2.jpg&w=3840&q=50",
+      "description": "The Mastic Tree is a small evergreen tree or shrub known for its resin, which is used in various culinary and medicinal applications.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 18,
-      "animalId": 28,
-      "location": "Viseu",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "Wild Pear",
+      "image": "https://static.inaturalist.org/photos/22793528/large.jpeg",
+      "description": "Wild Pear is a deciduous tree with small, hard fruits that are used in traditional culinary dishes when cooked.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 19,
-      "animalId": 29,
-      "location": "Viseu",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "Monterey Pine",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/2304366/large.jpg",
+      "description": "Monterey Pine is a fast-growing coniferous tree widely planted for timber production in Portugal.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 20,
-      "animalId": 30,
-      "location": "Santarém",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 1,
+      "name": "Black Poplar",
+      "image": "https://www.woodlandtrust.org.uk/media/4936/black-poplar-tree-alamy-am9w3x-geogphotos.jpg",
+      "description": "The Black Poplar is a large deciduous tree with deeply furrowed bark and a spreading crown, commonly found along rivers and streams.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 21,
-      "animalId": 16,
-      "location": "Santarém",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 2,
+      "name": "Lavender",
+      "image": "https://www.happyingredients.com/user/documents/images/huiles_essentielles/mcith/lavender-3479492_1920_cropped_800x800.jpg",
+      "description": "Lavender is a fragrant shrub with narrow, gray-green leaves and dense spikes of purple flowers, commonly found in Mediterranean regions.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 22,
-      "animalId": 10,
-      "location": "Santarém",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 2,
+      "name": "Rosemary",
+      "image": "https://cdn.shopify.com/s/files/1/0849/0686/products/rosemary_1024x1024.jpeg?v=1434854989",
+      "description": "Rosemary is an evergreen shrub with needle-like leaves and blue flowers, widely used in cooking and as an ornamental plant.",
+      "location": "Portugal",
+      "edible": "edible"
     },
     {
       "id": 23,
-      "animalId": 18,
-      "location": "Santarém",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 2,
+      "name": "Poppy",
+      "image": "https://www.farmersalmanac.com/wp-content/uploads/2022/05/Poppyy-1200x900-1.jpeg",
+      "description": "The Poppy is an annual flowering plant with bright red, delicate petals, often found in meadows and fields.",
+      "location": "Portugal",
+      "edible": "not edible"
     },
     {
       "id": 24,
-      "animalId": 20,
-      "location": "Santarém",
-      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
-      "description": "A fascinating animal"
+      "typeId": 2,
+      "name": "Bee Orchid",
+      "image": "https://static.wixstatic.com/media/02e22c_533c605283bf46769a0e7f9a8a284ebf~mv2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/02e22c_533c605283bf46769a0e7f9a8a284ebf~mv2.jpg",
+      "description": "Bee Orchid is a small perennial plant with distinctive flowers that mimic the appearance of a bee, attracting pollinators.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 25,
+      "typeId": 2,
+      "name": "Purple Viper's Bugloss",
+      "image": "https://meadowinmygarden.co.uk/cdn/shop/files/vipers-bugloss.jpg?v=1682850163",
+      "description": "This plant is a biennial herb with striking purple-blue flowers and rough, hairy leaves, commonly found in fields and along roadsides.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 26,
+      "typeId": 2,
+      "name": "Common Thyme",
+      "image": "https://gardenerspath.com/wp-content/uploads/2021/03/Learn-How-to-Plant-and-Grow-Common-Thyme-Thymus-vulgaris-FB.jpg",
+      "description": "Common Thyme is a low-growing, woody perennial with small, fragrant leaves and pink or purple flowers, widely used in cooking.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 27,
+      "typeId": 2,
+      "name": "Iris",
+      "image": "https://www.ugaoo.com/cdn/shop/articles/shutterstock_146890418.jpg?v=1661887143",
+      "description": "Iris is a perennial plant with sword-like leaves and large, showy flowers in various colors, often found in gardens and wild meadows.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 28,
+      "typeId": 2,
+      "name": "Oleander",
+      "image": "https://vajiram-prod.s3.ap-south-1.amazonaws.com/Oleander_a66b47fb37.webp",
+      "description": "Oleander is a highly toxic evergreen shrub with long, lance-shaped leaves and clusters of pink, white, or red flowers.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 29,
+      "typeId": 2,
+      "name": "Periwinkle",
+      "image": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/10/vinca-periwinkle.jpg",
+      "description": "Periwinkle is a creeping perennial with glossy green leaves and violet-blue flowers, often used as ground cover.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 30,
+      "typeId": 2,
+      "name": "Wild Garlic",
+      "image": "https://www.bostonbulbswholesale.co.uk/1358-large_default/ursinum-wild-garlic-allium-bulbs.jpg",
+      "description": "Wild Garlic is a bulbous perennial with broad leaves and clusters of white star-shaped flowers, known for its edible leaves and bulbs.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 31,
+      "typeId": 2,
+      "name": "Strawberry Tree Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Arbouses.jpg",
+      "description": "The Strawberry Tree Berry is a small, red fruit with a rough texture, produced by the Strawberry Tree, and is used in jams and liqueurs.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 32,
+      "typeId": 2,
+      "name": "Hawthorn Berry",
+      "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/hawthorn-berry-benefits-1296x728-feature.jpg",
+      "description": "Hawthorn Berries are small, red fruits that grow on the Hawthorn tree, known for their use in traditional medicine.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 33,
+      "typeId": 2,
+      "name": "Blackberry",
+      "image": "https://littleveggiepatchco.com.au/cdn/shop/files/blackberry.jpg?v=1719964843",
+      "description": "Blackberries are dark purple-black aggregate fruits, commonly found in the wild and used in desserts and jams.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 34,
+      "typeId": 2,
+      "name": "Elderberry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sambucus-berries.jpg",
+      "description": "Elderberries are small, dark purple berries from the Elder tree, often used in syrups, wines, and medicinal products.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 35,
+      "typeId": 2,
+      "name": "Juniper Berry",
+      "image": "https://cdn11.bigcommerce.com/s-jpgr1twe2i/images/stencil/1280x1280/products/3758/4142/JuniperBerryBos__91139.1593457052.png?c=2",
+      "description": "Juniper Berries are small, blue-purple fruits used as a spice in cooking, particularly in the production of gin.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 36,
+      "typeId": 2,
+      "name": "Bilberry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg",
+      "description": "Bilberries are small, blue-black berries similar to blueberries, often found in forests and heathlands.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 37,
+      "typeId": 2,
+      "name": "Sloe Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg",
+      "description": "Sloe Berries are small, dark purple fruits from the Blackthorn tree, traditionally used to make sloe gin.",
+      "location": "Portugal",
+      "edible": "not edible"
+    },
+    {
+      "id": 38,
+      "typeId": 2,
+      "name": "Rose Hip",
+      "image": "https://gardenerspath.com/wp-content/uploads/2023/04/Grow-Rose-Hips-for-Great-Health-Featured.jpg",
+      "description": "Rose Hips are the fruit of the wild rose bush, rich in vitamin C and often used in herbal teas and jams.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 39,
+      "typeId": 2,
+      "name": "Lingonberry",
+      "image": "https://gardenerspath.com/wp-content/uploads/2023/06/How-to-Grow-Lingonberries-Feature.jpg",
+      "description": "Lingonberries are small, red berries similar to cranberries, commonly used in sauces and preserves.",
+      "location": "Portugal",
+      "edible": "edible"
+    },
+    {
+      "id": 40,
+      "typeId": 2,
+      "name": "Crowberry",
+      "image": "https://calscape.org/storage/app/ExtData/allimages/Photos/Empetrum_nigrum_image55.jpg",
+      "description": "Crowberries are small, black fruits found in heathlands and coastal areas, typically consumed by birds and other wildlife.",
+      "location": "Portugal",
+      "edible": "not edible"
     }
   ]
 }
