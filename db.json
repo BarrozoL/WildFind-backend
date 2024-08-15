@@ -120,16 +120,7 @@
       "name": "Iberian Wolf",
       "image": "https://media.istockphoto.com/id/607996206/photo/iberian-wolf.jpg?s=612x612&w=0&k=20&c=fLF2LXDNDQtO6g6C8Cy3DN7MD3u_GfPOjY7oWTz_Trs=",
       "description": "The Iberian Wolf is a subspecies of the gray wolf found in the northwest of the Iberian Peninsula. It is slightly smaller than its northern relatives.",
-      "location": "Portugal",
-      "sightings": [
-        {
-          "id": 1,
-          "animalId": 11,
-          "location": "Lisbon",
-          "date": "",
-          "description": ""
-        }
-      ]
+      "location": "Portugal"
     },
     {
       "id": 12,
@@ -725,6 +716,83 @@
       "location": "",
       "date": "",
       "description": ""
+    },
+    {
+      "id": 2,
+      "animalId": 11,
+      "location": "Lisbon",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 11,
+      "location": "Lisbon",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 5,
+      "location": "Lisbon",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 10,
+      "location": "Lisbon",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 12,
+      "location": "Lisbon",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 20,
+      "location": "Faro",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 21,
+      "location": "Faro",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 24,
+      "location": "Faro",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 25,
+      "location": "Faro",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 26,
+      "location": "Faro",
+      "date": "15/08/24",
+      "description": "a"
+    },
+    {
+      "id": 2,
+      "animalId": 14,
+      "location": "Porto",
+      "date": "15/08/24",
+      "description": "a"
     }
   ]
 }
