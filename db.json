@@ -1121,5 +1121,209 @@
       "location": "Portugal",
       "edible": "not edible"
     }
+  ],
+  "watch": [
+    {
+      "id": 1,
+      "typeId": 2,
+      "name": "Iberian Lynx",
+      "image": "https://iucn.org/sites/default/files/styles/article_image/public/2024-07/dreamstime_xl_267742046.jpg?h=e5aec6c8&itok=9Sw2k4tf",
+      "description": "The Iberian Lynx is one of the most endangered cats in the world, with distinctive tufts on its ears and a short tail. It is native to Portugal and Spain.",
+      "location": "Portugal"
+    },
+    {
+      "id": 2,
+      "typeId": 2,
+      "name": "Wild Boar",
+      "image": "https://www.woodlandtrust.org.uk/media/3545/wild-boar-male-alamy-fj4x58-blickwinkel.jpg?center=0.327683615819209,0.42222222222222222&mode=crop&heightratio=0.5622047244094488188976377953&width=647&rnd=132078468140000000",
+      "description": "The Wild Boar is a large, omnivorous mammal found in the forests of Portugal. It has a bristly coat and is known for its tusks.",
+      "location": "Portugal"
+    },
+    {
+      "id": 3,
+      "typeId": 2,
+      "name": "Common Genet",
+      "image": "https://www.thesprucepets.com/thmb/wHS7AHAje5jmyy6Oa3s3xnMLejo=/2077x0/filters:no_upscale():strip_icc()/Genet-GettyImages-88161491-596fa6b26f53ba0011f96cad.jpg",
+      "description": "The Common Genet is a nocturnal mammal with a spotted coat and a long, ringed tail. It is commonly found in southern Portugal.",
+      "location": "Portugal"
+    },
+    {
+      "id": 4,
+      "typeId": 2,
+      "name": "European Hedgehog",
+      "image": "https://www.worldlandtrust.org/wp-content/uploads/2017/07/shutterstock_118149634.jpg",
+      "description": "The European Hedgehog is a small mammal with a coat of spines. It is a common sight in gardens and forests across Portugal.",
+      "location": "Portugal"
+    }
+  ],
+  "sightings": [
+    {
+      "id": 1,
+      "animalId": 11,
+      "location": "Lisboa",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "Seen in Lisboa yesterday"
+    },
+    {
+      "id": 2,
+      "animalId": 11,
+      "location": "Lisboa",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "I was scared"
+    },
+    {
+      "id": 3,
+      "animalId": 5,
+      "location": "Lisboa",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "I saw it on the way to work"
+    },
+    {
+      "id": 4,
+      "animalId": 10,
+      "location": "Lisboa",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "My brother saw it and told me about it"
+    },
+    {
+      "id": 5,
+      "animalId": 12,
+      "location": "Lisboa",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It found its way into my home"
+    },
+    {
+      "id": 6,
+      "animalId": 20,
+      "location": "Faro",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It was in the beach"
+    },
+    {
+      "id": 7,
+      "animalId": 21,
+      "location": "Faro",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "I saw him scare people near a restaurant"
+    },
+    {
+      "id": 8,
+      "animalId": 24,
+      "location": "Faro",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "This animal appeared and stole my food"
+    },
+    {
+      "id": 9,
+      "animalId": 25,
+      "location": "Faro",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It threatened my family"
+    },
+    {
+      "id": 10,
+      "animalId": 26,
+      "location": "Faro",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It enjoyed being caressed"
+    },
+    {
+      "id": 11,
+      "animalId": 14,
+      "location": "Porto",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "Had a glass of wine with me in Porto"
+    },
+    {
+      "id": 12,
+      "animalId": 16,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It quickly ran away when it saw me"
+    },
+    {
+      "id": 13,
+      "animalId": 17,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It quickly ran away when it saw me"
+    },
+    {
+      "id": 14,
+      "animalId": 18,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 15,
+      "animalId": 19,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 16,
+      "animalId": 26,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 17,
+      "animalId": 27,
+      "location": "Viseu",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 18,
+      "animalId": 28,
+      "location": "Viseu",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 19,
+      "animalId": 29,
+      "location": "Viseu",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 20,
+      "animalId": 30,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 21,
+      "animalId": 16,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 22,
+      "animalId": 10,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 23,
+      "animalId": 18,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 24,
+      "animalId": 20,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    }
   ]
 }
