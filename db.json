@@ -40,7 +40,8 @@
       "name": "Common Blackbird",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/44584641/1200",
       "description": "A medium-sized bird with an orange-yellow beak and eye-ring. The males are entirely black, while the females are dark brown.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 2,
@@ -48,7 +49,8 @@
       "name": "European Starling",
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0uqIFovXy63QbAoEKiyn814rXPyXaS9TtB8w4YHcCSBFT5K58",
       "description": "A medium-sized passerine bird with iridescent black plumage, which in winter shows a pattern of white spots.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 3,
@@ -56,7 +58,8 @@
       "name": "House Sparrow",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
       "description": "A small bird with a robust body, thick bill, and brown and gray feathers. Males have distinctive black bibs.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 4,
@@ -64,7 +67,8 @@
       "name": "Eurasian Magpie",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS88-67vqIKr1UrQauZYXbshIyC88tlnuCzkcG67pagiwFJ-4vi",
       "description": "A striking bird with black and white plumage and a long tail. Known for its intelligence and loud, chattering calls.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (approach with caution)"
     },
     {
       "id": 5,
@@ -72,7 +76,8 @@
       "name": "Yellow-legged Gull",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/44945251/900",
       "description": "A large gull with a white body, gray wings, and a yellow bill with a red spot. Often seen near coastal areas.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "2 (caution around food)"
     },
     {
       "id": 6,
@@ -80,7 +85,8 @@
       "name": "Feral Pigeon",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/8142388/large.jpg",
       "description": "A common urban bird with a variety of plumage colors, though typically gray with iridescent feathers on the neck.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
       "name": "Eurasian Collared Dove",
       "image": "https://www.birdnote.org/sites/default/files/Eurasian%20Collared-Dove%20-%20Hayton%20Reserve%20-%2010-14-14%20319-800.jpg",
       "description": "A medium-sized dove with a distinctive black neck collar. It has pale, sandy plumage and is commonly found in urban areas.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 8,
@@ -96,7 +103,8 @@
       "name": "Great Tit",
       "image": "https://c02.purpledshub.com/uploads/sites/62/2013/03/Great-tit.-GettyImages-1204702184-10f1a18.jpg?webp=1&w=1200",
       "description": "A small passerine bird with a distinctive black head, white cheeks, and a yellow underbelly with a black stripe.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 9,
@@ -104,7 +112,8 @@
       "name": "European Robin",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Erithacus_rubecula_with_cocked_head.jpg",
       "description": "A small bird with an orange-red breast and face, brown upperparts, and a melodic song.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "name": "Common Swift",
       "image": "https://cdn.hswstatic.com/gif/gettyimages-1332353621.jpg",
       "description": "A fast-flying bird with a dark, sooty-brown body, long wings, and a short, forked tail. It spends most of its life in the air.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 11,
@@ -120,7 +130,8 @@
       "name": "Iberian Wolf",
       "image": "https://media.istockphoto.com/id/607996206/photo/iberian-wolf.jpg?s=612x612&w=0&k=20&c=fLF2LXDNDQtO6g6C8Cy3DN7MD3u_GfPOjY7oWTz_Trs=",
       "description": "The Iberian Wolf is a subspecies of the gray wolf found in the northwest of the Iberian Peninsula. It is slightly smaller than its northern relatives.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "4 (do not approach)"
     },
     {
       "id": 12,
@@ -128,7 +139,8 @@
       "name": "Red Fox",
       "image": "https://a-z-animals.com/media/2021/09/fox-scream-at-night-red-fox-in-field-1024x535.jpg",
       "description": "The Red Fox is a highly adaptable carnivore, with reddish-brown fur and a bushy tail. It is widespread across Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "2 (avoid close contact)"
     },
     {
       "id": 13,
@@ -136,7 +148,8 @@
       "name": "European Rabbit",
       "image": "https://cdn-fastly.petguide.com/media/2022/02/16/8229709/european-rabbit.jpg?size=720x845&nocrop=1",
       "description": "The European Rabbit is a small mammal native to the Iberian Peninsula. It is a key species in Portuguese ecosystems.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (completely safe to approach)"
     },
     {
       "id": 14,
@@ -144,7 +157,8 @@
       "name": "Iberian Lynx",
       "image": "https://iucn.org/sites/default/files/styles/article_image/public/2024-07/dreamstime_xl_267742046.jpg?h=e5aec6c8&itok=9Sw2k4tf",
       "description": "The Iberian Lynx is one of the most endangered cats in the world, with distinctive tufts on its ears and a short tail. It is native to Portugal and Spain.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "3 (approach not recommended, can be dangerous if threatened)"
     },
     {
       "id": 15,
@@ -152,7 +166,8 @@
       "name": "Wild Boar",
       "image": "https://www.woodlandtrust.org.uk/media/3545/wild-boar-male-alamy-fj4x58-blickwinkel.jpg?center=0.327683615819209,0.42222222222222222&mode=crop&heightratio=0.5622047244094488188976377953&width=647&rnd=132078468140000000",
       "description": "The Wild Boar is a large, omnivorous mammal found in the forests of Portugal. It has a bristly coat and is known for its tusks.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "4 (do not approach, can be very aggressive)"
     },
     {
       "id": 16,
@@ -160,7 +175,8 @@
       "name": "Common Genet",
       "image": "https://www.thesprucepets.com/thmb/wHS7AHAje5jmyy6Oa3s3xnMLejo=/2077x0/filters:no_upscale():strip_icc()/Genet-GettyImages-88161491-596fa6b26f53ba0011f96cad.jpg",
       "description": "The Common Genet is a nocturnal mammal with a spotted coat and a long, ringed tail. It is commonly found in southern Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "2 (approach not recommended, avoid handling)"
     },
     {
       "id": 17,
@@ -168,7 +184,8 @@
       "name": "European Hedgehog",
       "image": "https://www.worldlandtrust.org/wp-content/uploads/2017/07/shutterstock_118149634.jpg",
       "description": "The European Hedgehog is a small mammal with a coat of spines. It is a common sight in gardens and forests across Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (safe to approach, but be gentle)"
     },
     {
       "id": 18,
@@ -176,7 +193,8 @@
       "name": "Otter",
       "image": "https://www.aldeiasdoxisto.pt/media/filer_public_thumbnails/filer_public/12/0c/120cea0f-3bbe-48ee-ba33-42636a451b17/aldeias-xisto-galleries1171-lontra.jpg__1280x960_q95_crop_subsampling-2_upscale.jpg",
       "description": "The Otter is a semi-aquatic mammal known for its playful behavior. It is commonly found in rivers and streams throughout Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "2 (generally safe, but avoid provoking)"
     },
     {
       "id": 19,
@@ -184,7 +202,8 @@
       "name": "Iberian Mole",
       "image": "https://static.escolakids.uol.com.br/2022/02/toupeira-saindo-do-solo.jpg",
       "description": "The Iberian Mole is a small, burrowing mammal with a cylindrical body and velvety fur. It is native to the Iberian Peninsula.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (completely safe to approach)"
     },
     {
       "id": 20,
@@ -192,7 +211,8 @@
       "name": "European Badger",
       "image": "https://www.wildlifeaid.org.uk/uploads/_1200x630_crop_center-center_82_none/Badger3.jpg?mtime=1694520946",
       "description": "The European Badger is a burrowing mammal with a distinctive black and white striped face. It is common in forests and rural areas of Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "3 (do not approach, can be aggressive if cornered)"
     },
     {
       "id": 21,
@@ -200,7 +220,8 @@
       "name": "Iberian Wall Lizard",
       "image": "https://wildlifemacro.com/wp-content/uploads/2019/09/13-Iberian-Wall-Lizard.jpg",
       "description": "A small lizard with a slender body and a long tail, usually green or brown in color. It is commonly found in rocky areas and walls.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 22,
@@ -208,7 +229,8 @@
       "name": "Spanish Psammodromus",
       "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s1ba3d513af1865f3/image/i1f74cf3692b579eb/version/1546251130/psammodromus-hispanicus.jpg",
       "description": "A small, agile lizard with a rough, keeled texture on its scales. Typically found in shrublands and open forests.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 23,
@@ -216,7 +238,8 @@
       "name": "Large Psammodromus",
       "image": "https://www.researchgate.net/publication/344449973/figure/fig14/AS:942101399339009@1601625885228/A-large-psammodromus-from-Morocco-related-to-the-western-population-from-the-Iberian.png",
       "description": "This lizard has a more robust build compared to its relatives, with a dark stripe running along each side of its body.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 24,
@@ -224,7 +247,8 @@
       "name": "Western Three-toed Skink",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/92119108/original.jpeg",
       "description": "A smooth-scaled lizard with a long, slender body and small, reduced limbs. It is commonly found in sandy soils and grassy areas.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 25,
@@ -232,7 +256,8 @@
       "name": "Iberian Worm Lizard",
       "image": "https://www.monaconatureencyclopedia.com/wp-content/uploads/2012/10/3-Blanus-cinereus.jpg",
       "description": "A burrowing reptile that resembles a large earthworm, with a cylindrical body and no visible limbs. It lives underground.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 26,
@@ -240,7 +265,8 @@
       "name": "Ocellated Lizard",
       "image": "https://cff2.earth.com/uploads/2022/02/02172234/Ocellated-lizards-scaled.jpg",
       "description": "One of the largest lizards in Europe, it has bright green scales with blue spots and a sturdy build. Found in open woodlands and scrublands.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (caution advised, but generally safe to approach)"
     },
     {
       "id": 27,
@@ -248,7 +274,8 @@
       "name": "Common Chameleon",
       "image": "https://observation.org/media/photo/14441163.jpg",
       "description": "A reptile with a highly flexible body, capable of changing color. It has a long, sticky tongue used to catch insects.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 28,
@@ -256,7 +283,8 @@
       "name": "Viperine Water Snake",
       "image": "https://i0.wp.com/stevenbolgartersnakes.com/wp-content/uploads/2015/04/Cevennes3.jpg?resize=900%2C599&ssl=1",
       "description": "A non-venomous snake with a viper-like appearance, often found near water bodies. It feeds primarily on fish and amphibians.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (caution advised, but generally safe to approach)"
     },
     {
       "id": 29,
@@ -264,7 +292,8 @@
       "name": "Ladder Snake",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rhinechis_scalaris_cropped.jpg",
       "description": "A large, non-venomous snake with a distinctive ladder-like pattern along its back. It inhabits rocky areas and open countryside.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (caution advised, but generally safe to approach)"
     },
     {
       "id": 30,
@@ -272,7 +301,8 @@
       "name": "Lataste's Viper",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/61073133/medium.jpg",
       "description": "A venomous snake with a stout body and a characteristic upturned snout. It is typically found in rocky and mountainous regions.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "4 (approach under no circumstances)"
     },
     {
       "id": 31,
@@ -280,7 +310,8 @@
       "name": "Mediterranean Fruit Fly",
       "image": "https://entnemdept.ufl.edu/creatures/fruit/mediterranean_fruit_fly17.jpg",
       "description": "A small insect with a yellowish body and brown markings on its wings. Known for its harmful effects on fruit crops.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 32,
@@ -288,7 +319,8 @@
       "name": "European Honeybee",
       "image": "https://www.dpi.nsw.gov.au/__data/assets/image/0010/1199629/Apismellifera1.JPG",
       "description": "A vital pollinator with a fuzzy, amber-colored body and black stripes. Lives in large colonies and produces honey.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (caution, may sting if provoked)"
     },
     {
       "id": 33,
@@ -296,7 +328,8 @@
       "name": "Asian Tiger Mosquito",
       "image": "https://source.wustl.edu/app/uploads/2014/10/475pxpx-Aedes_Albopictus-1.jpg",
       "description": "A black and white striped mosquito known for being an aggressive daytime biter and a vector for various diseases.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "2 (avoid, potential disease carrier)"
     },
     {
       "id": 34,
@@ -304,7 +337,8 @@
       "name": "European Earwig",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/F-auricularia_M_-_HngFBK20080915_A023.jpg/800px-F-auricularia_M_-_HngFBK20080915_A023.jpg",
       "description": "A small insect with a flat, elongated body and distinctive pincers on the end of its abdomen. Nocturnal and often found in gardens.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (harmless, but avoid touching)"
     },
     {
       "id": 35,
@@ -312,7 +346,8 @@
       "name": "Housefly",
       "image": "https://entomologytoday.org/wp-content/uploads/2023/06/house-fly-musca-domestica.jpg",
       "description": "A common insect with a gray thorax, four dark longitudinal lines on the back, and a pair of red compound eyes.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (harmless, but unhygienic)"
     },
     {
       "id": 36,
@@ -320,7 +355,8 @@
       "name": "Common Wasp",
       "image": "https://c02.purpledshub.com/uploads/sites/62/2023/03/The-common-wasp-1b18004.jpg",
       "description": "A social insect with yellow and black striped abdomen. Known for its painful sting and aggressive behavior when provoked.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (do not provoke, painful sting)"
     },
     {
       "id": 37,
@@ -328,7 +364,8 @@
       "name": "Green Lacewing",
       "image": "https://images.squarespace-cdn.com/content/v1/5c5445685239586b37f65f78/1598218444567-ENZWAP7402A02RDYNUCW/Green+Lacewings.jpg",
       "description": "A delicate insect with translucent green wings and golden eyes. Beneficial for controlling aphid populations.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 38,
@@ -336,7 +373,8 @@
       "name": "Ladybug",
       "image": "https://i.natgeofe.com/k/47bb0144-f7d1-4a28-a102-834a590f6e57/ladybug-leaf.jpg",
       "description": "A small beetle with a round, red body and black spots. Known for its role in controlling garden pests like aphids.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 39,
@@ -344,7 +382,8 @@
       "name": "Silverfish",
       "image": "https://cdn.britannica.com/35/181135-050-C62C1096/Silverfish.jpg",
       "description": "A small, wingless insect with a metallic sheen, known for its quick, darting movements and preference for damp environments.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (harmless, but a nuisance)"
     },
     {
       "id": 40,
@@ -352,7 +391,8 @@
       "name": "Carpenter Ant",
       "image": "https://www.westernpest.com/wp-content/uploads/Carpenter-Ant-2-sbs.jpeg",
       "description": "A large black ant species known for excavating wood to build its nests. Can be a structural pest in homes.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (avoid, may damage property)"
     },
     {
       "id": 41,
@@ -360,7 +400,8 @@
       "name": "Iberian Ribbed Newt",
       "image": "https://observation.org/media/photo/11942284.jpg",
       "description": "A large newt with a distinctive ribbed body and a unique defense mechanism, ejecting its ribs through its skin.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (do not handle)"
     },
     {
       "id": 42,
@@ -368,7 +409,8 @@
       "name": "Fire Salamander",
       "image": "https://www.waldwissen.net/assets/_processed_/4/5/csm_lwf_feuersalamander_2023_teaser_1fa3aca226.jpg",
       "description": "A striking amphibian with black skin and bright yellow spots or stripes. It is often found in humid forest environments.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (do not handle)"
     },
     {
       "id": 43,
@@ -376,7 +418,8 @@
       "name": "Marbled Newt",
       "image": "https://nature.guide/cdn/photos/large/31c913a5-7204-41c5-9249-aaca5be15d89.jpg",
       "description": "A medium-sized newt with marbled green and black patterns on its body. Males develop a crest during the breeding season.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (do not handle)"
     },
     {
       "id": 44,
@@ -384,7 +427,8 @@
       "name": "Iberian Painted Frog",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Discoglossus_galganoi_rechts.jpg",
       "description": "A small frog with a flat, elongated body and a distinctive pattern of dark spots on a light background.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 45,
@@ -392,7 +436,8 @@
       "name": "Common Midwife Toad",
       "image": "https://cdn.britannica.com/12/76212-050-58BB4E64/Midwife-toad.jpg",
       "description": "A small toad known for its unique reproductive behavior, where males carry fertilized eggs on their back until they hatch.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 46,
@@ -400,7 +445,8 @@
       "name": "Natterjack Toad",
       "image": "https://gendiv.ethz.ch/wp-content/uploads/2020/08/Epidalea_calamita_Andreas_Meyer_karch_test-Kopie-1024x683.jpg",
       "description": "A small toad with a distinctive yellow line running down its back. It prefers sandy and open habitats.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 47,
@@ -408,7 +454,8 @@
       "name": "Iberian Tree Frog",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Iberian_Tree_Frog_%28Hyla_molleri%29%2C_Vale_de_Afonsinho%2C_NE_Portugal_%2847670366681%29.jpg",
       "description": "A small, bright green frog with a smooth body and sticky pads on its toes, allowing it to climb plants and trees.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 48,
@@ -416,7 +463,8 @@
       "name": "Iberian Spadefoot Toad",
       "image": "https://live.staticflickr.com/65535/49004874298_dbc23a5b4c_b.jpg",
       "description": "A burrowing toad with a squat, rounded body and short legs, known for its ability to dig into the ground using a spade-like projection on its hind feet.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 49,
@@ -424,7 +472,8 @@
       "name": "Perez's Frog",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pelophylax_perezi_by-dpc.jpg",
       "description": "A common frog found in a wide variety of habitats, with a green or brownish body and a distinctive, loud croak.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 50,
@@ -432,7 +481,8 @@
       "name": "Western Spadefoot Toad",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Scaphiopus_couchii_ANRA.jpg",
       "description": "A burrowing toad species with smooth skin, known for its rapid breeding in temporary pools of water.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 51,
@@ -440,7 +490,8 @@
       "name": "Atlantic Mackerel",
       "image": "https://www.seachoice.org/wp-content/uploads/2017/11/Mackerel-BCY450-800x380.jpg",
       "description": "A fast-swimming fish with a sleek, streamlined body and striking blue-green stripes on its back. Commonly found in the North Atlantic.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 52,
@@ -448,7 +499,8 @@
       "name": "European Sardine",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sardina_pilchardus_2011.jpg/640px-Sardina_pilchardus_2011.jpg",
       "description": "A small, oily fish with silvery scales. It is abundant in the coastal waters of Portugal and often used in traditional dishes.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 53,
@@ -456,7 +508,8 @@
       "name": "Atlantic Cod",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg",
       "description": "A large fish with a distinctive barb on its chin. It has a brownish-green back with spots and a pale belly.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 54,
@@ -464,7 +517,8 @@
       "name": "European Hake",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG",
       "description": "A long-bodied fish with a silvery appearance. It is a popular catch in the waters around Portugal, often found in deep waters.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 55,
@@ -472,7 +526,8 @@
       "name": "Common Octopus",
       "image": "https://cdn.britannica.com/16/122516-050-465793D3/lens-eyes-octopuses-photoreceptors-fractions-degrees.jpg",
       "description": "A highly intelligent cephalopod known for its eight arms and ability to change color. It is commonly found along the Portuguese coast.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "1 (generally safe, but can be defensive)"
     },
     {
       "id": 56,
@@ -480,7 +535,8 @@
       "name": "Atlantic Salmon",
       "image": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/3/2015/05/Atlantic-salmon-630x400.jpg",
       "description": "A migratory fish that spends most of its life in the ocean but returns to freshwater to spawn. It has a silvery body with a few dark spots.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 57,
@@ -488,7 +544,8 @@
       "name": "Common Dolphin",
       "image": "https://live.staticflickr.com/65535/52869434710_8f44b7473e_b.jpg",
       "description": "A small, energetic dolphin species with a distinctive hourglass pattern on its sides. Commonly seen in the Atlantic waters off Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 58,
@@ -496,7 +553,8 @@
       "name": "Gilthead Seabream",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sparus_aurata_Sardegna.jpg",
       "description": "A prized fish with a robust body and a distinctive gold band between its eyes. Found in coastal waters and lagoons.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 59,
@@ -504,7 +562,8 @@
       "name": "Blue Shark",
       "image": "https://c02.purpledshub.com/uploads/sites/62/2023/03/Blue-shark-facts-5efc1f5.jpg",
       "description": "A sleek, elongated shark with a deep blue coloration. Commonly found in the open waters off the coast of Portugal.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "2 (avoid close contact, can be aggressive)"
     },
     {
       "id": 60,
@@ -512,7 +571,8 @@
       "name": "Portuguese Man o' War",
       "image": "https://cdn.britannica.com/53/235353-050-6BC78AD0/Portuguese-man-of-war-Physalia-physalis-floating-in-the-ocean-with-tentacles.jpg",
       "description": "A venomous marine organism with long tentacles. Though often mistaken for a jellyfish, it is actually a siphonophore.",
-      "location": "Portugal"
+      "location": "Portugal",
+      "dangerLevel": "4 (approach with extreme caution, venomous sting)"
     },
     {
       "id": 61,
@@ -520,7 +580,8 @@
       "name": "Domestic Cat",
       "image": "https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg",
       "description": "A small, typically furry, carnivorous mammal known for its agility, affectionate nature, and independence.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "1 (generally safe to approach, but may scratch if threatened)"
     },
     {
       "id": 62,
@@ -528,7 +589,8 @@
       "name": "Domestic Dog",
       "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/307568930/large.jpg",
       "description": "A loyal and intelligent companion, known for its variety of breeds, each with distinct characteristics.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "1 (generally safe to approach, but may bite if provoked)"
     },
     {
       "id": 63,
@@ -536,7 +598,8 @@
       "name": "Rabbit",
       "image": "https://media.4-paws.org/6/4/0/1/6401d1c6e76fb0838ffcf835dd387b6bba662fbd/Kaninchen%20im%20Freigehege%20%282%29-4440x3072-1920x1328.jpg",
       "description": "A small mammal with long ears, soft fur, and a short, fluffy tail, often kept as a pet for its gentle nature.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 64,
@@ -544,7 +607,8 @@
       "name": "Guinea Pig",
       "image": "https://www.oakhurstvet.com/blog/wp-content/uploads/2023/03/iStock-1396607661-scaled.jpg",
       "description": "A small, sociable rodent with a stout body, short legs, and no tail, known for its vocalizations and friendly disposition.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 65,
@@ -552,7 +616,8 @@
       "name": "Hamster",
       "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/03/16/1424845971-hamster-1.jpg",
       "description": "A small, nocturnal rodent with cheek pouches for storing food, known for its playful and curious nature.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 66,
@@ -560,7 +625,8 @@
       "name": "Common Parakeet",
       "image": "https://petjunction411.com/wp-content/uploads/2019/10/budgerigar.jpg",
       "description": "A small, colorful parrot native to Australia, commonly kept as a pet for its social and vocal behavior.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 67,
@@ -568,7 +634,8 @@
       "name": "Canary",
       "image": "https://cdn.britannica.com/33/226533-050-404C15AF/Canary-on-pear-branch.jpg",
       "description": "A small songbird with bright yellow feathers, known for its pleasant singing and lively temperament.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 68,
@@ -576,7 +643,8 @@
       "name": "Goldfish",
       "image": "https://www.petbarn.com.au/petspot/app/uploads/2017/05/fancy-goldfish-petbarn.png",
       "description": "A small, ornamental freshwater fish with a distinctive orange-gold color, commonly kept in aquariums.",
-      "location": "Your home?"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 69,
@@ -584,7 +652,8 @@
       "name": "Box Turtle",
       "image": "https://allanspetcenter.com/wp-content/uploads/2020/02/box-turtle-1389243_1920-740x500.jpg",
       "description": "A terrestrial turtle with a dome-shaped shell and hinged plastron, allowing it to close its shell tightly for protection.",
-      "location": "Portugal"
+      "location": "Your home?",
+      "dangerLevel": "0 (generally safe to approach, but may bite if handled roughly)"
     },
     {
       "id": 70,
@@ -592,7 +661,8 @@
       "name": "Chinchilla",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chinchilla_lanigera_%28Wroclaw_zoo%29-2.JPG",
       "description": "A small, nocturnal rodent with dense, soft fur, known for its playful and energetic personality, often kept as an exotic pet.",
-      "location": "Portugal"
+      "location": "Your home?",
+      "dangerLevel": "0 (safe to approach)"
     },
     {
       "id": 71,
@@ -600,7 +670,8 @@
       "name": "Bigfoot",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bigfoot.svg/1200px-Bigfoot.svg.png",
       "description": "A large, ape-like creature reported to inhabit the forests of North America. Bigfoot is typically described as being between 6 to 10 feet tall and covered in dark hair.",
-      "location": "North America"
+      "location": "North America",
+      "dangerLevel": "1 (generally safe, approach with caution)"
     },
     {
       "id": 72,
@@ -608,7 +679,8 @@
       "name": "Phantom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ghost_03.jpg/800px-Ghost_03.jpg",
       "description": "A phantom, or ghost, is a spectral entity believed to be the spirit or soul of a deceased person. Phantoms are often depicted as translucent or shadowy figures and are said to haunt specific locations, typically where they had strong emotional ties or unresolved issues in life.",
-      "location": "Worldwide"
+      "location": "Worldwide",
+      "dangerLevel": "0 (generally no danger to humans)"
     },
     {
       "id": 73,
@@ -616,7 +688,8 @@
       "name": "Chupacabra",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chupacabra_Puerto_Rico.jpg",
       "description": "A cryptid known for its vampire-like tendencies, allegedly attacking livestock and draining their blood. Descriptions vary, but it is often depicted as a reptilian creature with spines along its back.",
-      "location": "Latin America"
+      "location": "Latin America",
+      "dangerLevel": "3 (caution advised, may be aggressive. If you are a goat, do not approach.)"
     },
     {
       "id": 74,
@@ -624,15 +697,17 @@
       "name": "Kraken",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg/800px-Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg",
       "description": "A legendary sea monster said to dwell off the coast of Norway and Greenland. The Kraken is often described as a giant squid capable of dragging ships and sailors to their doom.",
-      "location": "North Atlantic Ocean"
+      "location": "North Atlantic Ocean",
+      "dangerLevel": "4 (very dangerous, avoid at all costs)"
     },
     {
       "id": 75,
       "typeId": 8,
-      "name": "Leprechaun",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Leprechaun_%28Leprechaun%29.jpg/800px-Leprechaun_%28Leprechaun%29.jpg",
-      "description": "A mischievous fairy from Irish folklore, leprechauns are typically depicted as small, bearded men dressed in green. They are known for hiding pots of gold at the end of rainbows and are associated with trickery and good fortune.",
-      "location": "Ireland"
+      "name": "Alien",
+      "image": "https://image.pbs.org/video-assets/ElBJDzi-asset-mezzanine-16x9-XzXxRKY.png?crop=1920x1080&format=jpg",
+      "description": "A being from another planet. Why are they here? What do they want?",
+      "location": "???",
+      "dangerLevel": "5 (???????)"
     },
     {
       "id": 76,
@@ -640,7 +715,8 @@
       "name": "Dragon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dragon_Chinese.png/1024px-Dragon_Chinese.png",
       "description": "A legendary serpent-like creature that appears in the mythology of many cultures. Dragons are often depicted as powerful beings capable of breathing fire and flying.",
-      "location": "Worldwide"
+      "location": "Worldwide",
+      "dangerLevel": "5 (immediate death, approach under no circumstances)"
     },
     {
       "id": 77,
@@ -648,7 +724,8 @@
       "name": "Yeti",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yeti_illustration.png/1024px-Yeti_illustration.png",
       "description": "A cryptid said to inhabit the Himalayan mountains. The Yeti, also known as the 'Abominable Snowman,' is typically described as a large, hairy, ape-like creature.",
-      "location": "Himalayas, Asia"
+      "location": "Himalayas, Asia",
+      "dangerLevel": "2 (possibly dangerous, approach with caution)"
     },
     {
       "id": 78,
@@ -656,7 +733,8 @@
       "name": "Unicorn",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Unicorn%2C_tapestry_in_the_Stirling_Castle.jpg/800px-Unicorn%2C_tapestry_in_the_Stirling_Castle.jpg",
       "description": "A legendary horse-like creature with a single large, spiraling horn on its forehead. The unicorn is a symbol of purity, grace, and magic.",
-      "location": "Medieval Europe"
+      "location": "Medieval Europe",
+      "dangerLevel": "0 (no danger to humans)"
     },
     {
       "id": 79,
@@ -664,7 +742,8 @@
       "name": "Mothman",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mothman_statue.jpg/800px-Mothman_statue.jpg",
       "description": "A mysterious creature reportedly seen in Point Pleasant, West Virginia. The Mothman is described as a large, winged creature with glowing red eyes, often associated with ominous events.",
-      "location": "West Virginia, USA"
+      "location": "West Virginia, USA",
+      "dangerLevel": "2 (possibly dangerous, approach with caution)"
     },
     {
       "id": 80,
@@ -672,7 +751,8 @@
       "name": "Hodag",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hodag_Museum_2011.jpg/800px-Hodag_Museum_2011.jpg",
       "description": "A cryptid from American folklore, particularly in Wisconsin. The Hodag is said to be a large, fearsome creature with the head of an ox, the body of a bear, and the spines of a stegosaurus.",
-      "location": "Wisconsin, USA"
+      "location": "Wisconsin, USA",
+      "dangerLevel": "3 (caution advised, may be aggressive)"
     }
   ],
   "watch": [
@@ -711,81 +791,172 @@
   ],
   "sightings": [
     {
-      "id": 2,
+      "id": 1,
       "animalId": 11,
       "location": "Lisboa",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "Seen in Lisboa yesterday"
     },
     {
       "id": 2,
       "animalId": 11,
       "location": "Lisboa",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "I was scared"
     },
     {
-      "id": 2,
+      "id": 3,
       "animalId": 5,
       "location": "Lisboa",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "I saw it on the way to work"
     },
     {
-      "id": 2,
+      "id": 4,
       "animalId": 10,
       "location": "Lisboa",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "My brother saw it and told me about it"
     },
     {
-      "id": 2,
+      "id": 5,
       "animalId": 12,
       "location": "Lisboa",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It found its way into my home"
     },
     {
-      "id": 2,
+      "id": 6,
       "animalId": 20,
       "location": "Faro",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It was in the beach"
     },
     {
-      "id": 2,
+      "id": 7,
       "animalId": 21,
       "location": "Faro",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "I saw him scare people near a restaurant"
     },
     {
-      "id": 2,
+      "id": 8,
       "animalId": 24,
       "location": "Faro",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "This animal appeared and stole my food"
     },
     {
-      "id": 2,
+      "id": 9,
       "animalId": 25,
       "location": "Faro",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It threatened my family"
     },
     {
-      "id": 2,
+      "id": 10,
       "animalId": 26,
       "location": "Faro",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It enjoyed being caressed"
     },
     {
-      "id": 2,
+      "id": 11,
       "animalId": 14,
       "location": "Porto",
-      "date": "15/08/24",
-      "description": "a"
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "Had a glass of wine with me in Porto"
+    },
+    {
+      "id": 12,
+      "animalId": 16,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It quickly ran away when it saw me"
+    },
+    {
+      "id": 13,
+      "animalId": 17,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "It quickly ran away when it saw me"
+    },
+    {
+      "id": 14,
+      "animalId": 18,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 15,
+      "animalId": 19,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 16,
+      "animalId": 26,
+      "location": "Beja",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 17,
+      "animalId": 27,
+      "location": "Viseu",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 18,
+      "animalId": 28,
+      "location": "Viseu",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 19,
+      "animalId": 29,
+      "location": "Viseu",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 20,
+      "animalId": 30,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 21,
+      "animalId": 16,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 22,
+      "animalId": 10,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 23,
+      "animalId": 18,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
+    },
+    {
+      "id": 24,
+      "animalId": 20,
+      "location": "Santarém",
+      "date": "Mon Aug 05 2024 10:35:41 GMT+0100 (Hora de verão da Europa Ocidental)",
+      "description": "A fascinating animal"
     }
   ]
 }
